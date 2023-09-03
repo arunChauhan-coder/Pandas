@@ -1,0 +1,47 @@
+1 Workign with Text data
+-- islower()
+-- isuper()
+-- len()
+-- strip()
+-- split()
+-- replace()
+-- findall(pattern) etc
+
+2. Selection 
+--.loc()
+-- .iloc()
+-- series.select()
+
+3 operations on dataset
+-- apply() # MOST IMP
+-- eval
+-- mean()
+-- mad()
+-- sem() for std
+-- error
+
+4 Data Manuplation
+
+-- isnull()
+-- notnull()
+-- truncate()
+-- del
+-- sort_values()
+-- df.iterrows()
+-- drop dupliactes
+-- reindex
+-- merge()
+-- concat()
+-- join()
+-- append()
+-- groupby() MOST IMP business problem
+-- agge count sum etc
+ 
+5 DATE TIME
+-- to_datetime()
+-- to_timedelta()
+-- date_range() etc
+
+
+normal visulization with seaborn and matplotlib 
+also considered thses 2.
