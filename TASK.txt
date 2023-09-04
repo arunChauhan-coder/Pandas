@@ -6,6 +6,7 @@
 -- split()
 -- replace()
 -- findall(pattern) etc
+-- rename
 
 2. Selection 
 --.loc()
