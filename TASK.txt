@@ -15,7 +15,6 @@
 
 3 operations on dataset
 -- apply() # MOST IMP
--- eval
 -- mean()
 -- mad()
 -- sem() for std
